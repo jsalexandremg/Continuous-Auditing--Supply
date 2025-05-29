@@ -1,0 +1,1 @@
+# Arquivo manage.py será gerado por startproject
